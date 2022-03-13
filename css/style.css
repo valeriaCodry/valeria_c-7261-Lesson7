@@ -10,7 +10,7 @@ body.body-mountain{
 }
 nav.nav-mountain{
 	height: 700px;
-	background: linear-gradient(176deg, rgba(251, 251, 251, 0.205) 1%, rgba(251,251,251,1) 100%), url("../img/pexels-krivec-ales-547115.jpg") center / cover no-repeat;
+	background: linear-gradient(to bottom, rgba(251, 251, 251, 0.205) 1%, #F4F3F9 100%), url("../img/pexels-krivec-ales-547115.jpg") center / cover no-repeat;
 }
 .navigation-list{
 	text-align: center;
@@ -106,9 +106,17 @@ main.mountain{
 	padding-top: 30px;
 }
 footer{
-	background: linear-gradient(5deg, rgba(251, 251, 251, 0.685) 53%, rgba(251,251,251,1) 100%), url("../img/footer-pexels-invisiblepower-1076885.jpg") center / cover no-repeat;
+	/* background: linear-gradient(5deg, rgba(251, 251, 251, 0.685) 53%, rgba(251,251,251,1) 100%), url("../img/footer-pexels-invisiblepower-1076885.jpg") center / cover no-repeat; */
 	height: 200px;
+	border: 0;
+	/* background-image: linear-gradient(to top, #e4e4f794, #e8e8f78c, #ecebf886, #f0eff886, #f4f3f98a),  url("../img/footer-pexels-invisiblepower-1076885.jpg") center / cover no-repeat; */
+	background:linear-gradient(to top, rgba(251, 251, 251, 0.685) 53%, #F4F3F9 100%), url("../img/footer-pexels-invisiblepower-1076885.jpg") center / cover no-repeat;
+	/* background-image: linear-gradient(to top, rgba(228, 228, 247, 0.616) 0%, rgba(232, 232, 247, 0.527) 0%, rgba(236, 235, 248, 0.548) 0%, rgba(240, 239, 248, 0.589) 0%, rgba(244, 243, 249, 0.377) 100%), url("../img/footer-pexels-invisiblepower-1076885.jpg") center / cover no-repeat; */
+
 }
+/* footer{ */
+	/* background-image: linear-gradient(to top, rgba(228, 228, 247, 0.616) 0%, rgba(232, 232, 247, 0.527) 0%, rgba(236, 235, 248, 0.548) 0%, rgba(240, 239, 248, 0.589) 0%, rgba(244, 243, 249, 0.377) 100%), url("../img/footer-pexels-invisiblepower-1076885.jpg") center / cover no-repeat; */
+	/* background:linear-gradient(to top, rgba(251, 251, 251, 0.685) 53%, #F4F3F9 100%), url("../img/footer-pexels-invisiblepower-1076885.jpg") center / cover no-repeat */
 
 /* ===========================article1==================================== */
 body.article1{
