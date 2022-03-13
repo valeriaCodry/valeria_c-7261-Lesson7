@@ -49,34 +49,34 @@ h1.h1-mountain{
 	box-shadow: 10px 10px 5px 0px rgba(149,173,190,0.75);
 }
 .background-zhangjiajie{
-	background: url('../img/1.национальный-парк-чжанцзяцзе-китай.jpg') center / cover no-repeat fixed;
+	background: url('../img/1.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-polinesia{
-	background: url('../img/2.муреа-французская-полинезия.jpg') center / cover no-repeat fixed;
+	background: url('../img/2.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-rainbow-mountain{
-	background: url('../img/3.радужные-горы-китай.jpg') center / cover no-repeat fixed;
+	background: url('../img/3.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-devil-tower{
-	background: url('../img/4.башня-дьявола-сша.jpg') center / cover no-repeat fixed;
+	background: url('../img/4.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-fairy-chimneys{
-	background: url('../img/5.каппадокия-турция.jpg') center / cover no-repeat fixed;
+	background: url('../img/5.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-kinabalu-mountain{
-	background: url('../img/6.гора-кинабалу-малайзия.jpg') center / cover no-repeat fixed;
+	background: url('../img/6.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-bangl-bangl{
-	background: url('../img/7.хребет-бангл-бангл-в-австралии.jpg') center / cover no-repeat fixed;
+	background: url('../img/7.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-serro-torre{
-	background: url('../img/8.серро-торре-патагония.jpg') center / cover no-repeat fixed;
+	background: url('../img/8.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-otemanu-mountain{
-	background: url('../img/9.отеману-бора-бора.jpg') center / cover no-repeat fixed;
+	background: url('../img/9.jpg') 0 0 / cover no-repeat fixed;
 }
 .background-chocolate-mountains{
-	background: url('../img/10.шоколадные-холмы-филиппины.jpg') center / cover no-repeat fixed;
+	background: url('../img/10.jpg') 0 0 / cover no-repeat fixed;
 }
 
 main.mountain{
